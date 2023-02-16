@@ -17,7 +17,7 @@ local value = exports.jmodz_xp:getxp()
 ```
 To get player's rank use: 
 ```lua
-local value = exports.jmodz_xp:getxp()
+local value = exports.jmodz_xp:getrank()
 ```
 To give a player some xp use: 
 ```lua
