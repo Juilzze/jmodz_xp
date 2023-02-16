@@ -10,8 +10,8 @@ client_scripts {
 
 server_scripts {
 	'config.lua',
-    'server/main.lua',
-    '@mysql-async/lib/MYSQL.lua'
+	'server/main.lua',
+	'@mysql-async/lib/MYSQL.lua'
 }
 
 shared_script {
