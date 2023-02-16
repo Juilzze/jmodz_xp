@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-name 'jm_xp'
+name 'jmodz_xp'
 
 client_scripts {
 	'config.lua',
