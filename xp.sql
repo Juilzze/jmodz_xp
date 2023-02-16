@@ -1,0 +1,2 @@
+ALTER TABLE `users`
+	ADD COLUMN `test` INT(11) NULL DEFAULT '0';
