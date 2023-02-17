@@ -9,7 +9,7 @@ Fivem XP system working with ESX. This is my first publicly released FiveM resou
   3. Start resource with "ensure jmodz_xp" command
   ```
   
-<h2>Useful information:</h2>
+<h2>Client side functions:</h2>
 
 To get player's xp use: 
 ```lua
